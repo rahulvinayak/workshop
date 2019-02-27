@@ -1,2 +1,2 @@
 student = {"name":"Rahul","age":"18"}
-print (student)
+print (student["name"])
